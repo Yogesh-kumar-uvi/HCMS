@@ -27,13 +27,13 @@ Update the database configuration in config/database.js.
 npm start
 
 <h2>Usage<h2>
-<b>Login:</b> Use the default admin credentials to log in.
-<b>Dashboard:</b> Access the dashboard to view system statistics.
-<b>Patient Management:</b> Add, update, or delete patient information.
-<b>Appointment Scheduling:</b> Schedule new appointments and manage existing ones.
-<b>Medical Records:</b> View and update patient medical records.
-<b>Billing:</b> Generate and manage bills for patients.
-<b>Reporting:</b> Generate reports for various metrics.
+Login: Use the default admin credentials to log in.
+Dashboard: Access the dashboard to view system statistics.
+Patient Management: Add, update, or delete patient information.
+Appointment Scheduling: Schedule new appointments and manage existing ones.
+Medical Records: View and update patient medical records.
+Billing:Generate and manage bills for patients.
+Reporting: Generate reports for various metrics.
 Contributing
 We welcome contributions! Please follow these steps to contribute:
 
