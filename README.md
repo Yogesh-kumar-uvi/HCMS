@@ -26,18 +26,18 @@ Update the database configuration in config/database.js.
 <h2>Run the application:<h2>
 npm start
 
-<h2>Usage<h2>
-<h2>Login:</h2> Use the default admin credentials to log in.
-<h2>Dashboard:</h2> Access the dashboard to view system statistics.
-<h2>Patient Management:</h2> Add, update, or delete patient information.
-<h2>Appointment Scheduling:</h2> Schedule new appointments and manage existing ones.
-<h2>Medical Records:</h2> View and update patient medical records.
-<h2>Billing:</h2> Generate and manage bills for patients.
-<h2>Reporting:</h2> Generate reports for various metrics.
+<b>Usage<h2>
+<b>Login:</b> Use the default admin credentials to log in.
+<b>Dashboard:</b> Access the dashboard to view system statistics.
+<b>Patient Management:</b> Add, update, or delete patient information.
+<b>Appointment Scheduling:</b> Schedule new appointments and manage existing ones.
+<b>Medical Records:</b> View and update patient medical records.
+<b>Billing:</b> Generate and manage bills for patients.
+<b>Reporting:</b> Generate reports for various metrics.
 Contributing
 We welcome contributions! Please follow these steps to contribute:
 
-Fork the repository.
+<h2>Fork the repository.</h2>
 Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
