@@ -16,17 +16,17 @@ To install and run the Healthcare Management System locally, follow these steps:
 git clone https://github.com/yourusername/healthcare-management-system.git
 cd healthcare-management-system
 
-<h2>Install dependencies:<h2>
+<h2>Install dependencies:</h2>
 npm install
 
-<h2>Set up the database:<h2>
+<h2>Set up the database:</h2>
 Ensure you have a running instance of [Database Name] (e.g., MySQL, PostgreSQL).
 Update the database configuration in config/database.js.
 
-<h2>Run the application:<h2>
+<h2>Run the application:</h2>
 npm start
 
-<b>Usage<h2>
+<h2>Usage<h2>
 <b>Login:</b> Use the default admin credentials to log in.
 <b>Dashboard:</b> Access the dashboard to view system statistics.
 <b>Patient Management:</b> Add, update, or delete patient information.
