@@ -20,13 +20,13 @@ cd healthcare-management-system
 npm install
 
 <h2>Set up the database:</h2>
-Ensure you have a running instance of [Database Name] (e.g., MySQL, PostgreSQL).
+Ensure you have a running instance of mongoDB.
 Update the database configuration in config/database.js.
 
 <h2>Run the application:</h2>
 npm start
 
-<h2>Usage<h2>
+<h2>Usage</h2>
 Login: Use the default admin credentials to log in.
 Dashboard: Access the dashboard to view system statistics.
 Patient Management: Add, update, or delete patient information.
@@ -42,6 +42,7 @@ Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
