@@ -1,0 +1,55 @@
+.doctor-background{
+    background-image: url('https://th.bing.com/th/id/OIP.QicUgRlm4n9S-JxsZ4TKRwHaEo?rs=1&pid=ImgDetMain');
+    height: 80vh;
+}
+.left{
+    width: 75%;
+    height: 80vh;
+    float: left;
+    border: 1px solid rgb(244, 242, 242);
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.left .heading-doctor-profile{
+    font-size: 15px;
+    margin-top: 10px;
+    color: rgb(193, 77, 96);
+    letter-spacing: 1cap;
+    font-weight: bolder;
+    background-color: aquamarine;
+    width: 70%;
+    padding-left: 3px;
+}
+.answer{
+    font-size: 17px;
+    padding-bottom: 10px;
+    color: rgb(254, 227, 227);
+    padding-left: 5px;
+}
+.right{
+    float: right;
+    margin-top: 10%;
+    padding-right: 10%;
+    padding-left: 1%;
+    height: 12vh;
+    color: aliceblue;
+    background-color: rgb(109, 209, 27);
+    width: 20%;
+}
+.right .heading-doctor-profile{
+    color: aliceblue;
+    font-size: 1.3em;
+    font-weight: bolder;
+    background-color: rgb(109, 209, 27);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+}
+.right .answer{
+    width: 100%;
+}
+.right .edit{
+    background-color: rgb(5, 5, 5);
+    padding-left: 5px;
+    width: 100%;
+}
