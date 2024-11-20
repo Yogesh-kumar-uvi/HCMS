@@ -1,0 +1,96 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.doctorList{
+    margin-top: 0px;
+}
+.doctorList-1{
+    width: 100%;
+    height: 160px;
+    background-color: rgb(254, 255, 255);
+    box-shadow: 2px 2px 10px black;
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+.doctorList-1-left{
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.doctorList-1-left-img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 2px 10px black;
+}
+.doctorList-1-left-img img{
+    width: 110px;
+    height: 120px;
+}
+.doctorList-1-left-book-appointment{
+    background-color: blue;
+    padding: 2px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 14px;
+    width: 130px;
+    margin-top: 5px;
+}
+.doctorList-1-left-book-appointment:hover{
+    border: 1px solid blue;
+    color: blue;
+    cursor: pointer;
+    background-color: white;
+    font-weight: 500;
+}
+.doctorList-1-right{
+    width:75%;
+    height: 100%;
+    float: left;
+}
+.doctorList-1-right>div{
+    width: 100%;
+    height: 20%;
+    padding-left: 20px;
+}
+.doctorList-1-right-heading{
+    color: black;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+.doctorList-1-right-speciality{
+    color: rgb(10, 101, 207);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: cursive;
+}
+.doctorList-1-right-experience, .doctorList-1-right-fees, .doctorList-1-right-available-time{
+    color: rgb(14, 14, 14);
+    text-align: left;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-weight: 600;
+}
+.heading-doctor{
+    color: black;
+    font-size: 14px;
+}
+.answer-doctor{
+    color: rgb(26, 25, 25);
+    font-size: 12px;
+}
