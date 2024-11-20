@@ -33,5 +33,5 @@ app.use("/conversation/api/v1", conversationRoute);
 
 app.listen(
   PORT,
-  console.log(`Server running in mode on port http://localhost:${PORT}`)
+  console.log(`Server running in mode on port ${PORT}`)
 );
